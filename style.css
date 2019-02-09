@@ -1,0 +1,51 @@
+body{
+  background: #ebf0f6;
+  color: #132238;
+  font-size: 15px;
+  font-family: Helvetica;
+}
+h1{
+  font-family: Helvetica;
+  color: #000000;
+  font-weight: bolder;
+  font-size: 100px;
+}
+h2 {
+  font-family: Helvetica;
+  color: #364e68;
+  font-weight: lighter;
+  font-size: 25px;
+}
+a {
+  color: #951555;
+}
+a:hover {
+  text-decoration: none;
+  color: #771144;
+}
+
+.heading{
+  text-align: center;
+  padding: 50px
+}
+
+.trips{
+  text-align: center;
+  background: : #ebf0f6;
+  padding: 50px;
+}
+
+.card{
+  text-align: center;
+}
+
+.card-img-top{
+  height: 100;
+  width: 100;
+  overflow: hidden;
+  border-radius: 50
+}
+
+.pic{
+  height=width;
+}
